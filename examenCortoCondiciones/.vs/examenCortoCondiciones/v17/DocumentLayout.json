@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\examenCortoCondiciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9394321-C0DF-457A-97BE-C3632CC4F9A2}|examenCortoCondiciones\\examenCortoCondiciones.vcxproj|C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\examenCortoCondiciones\\examenCortoCondiciones\\examenCortoCondiciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9394321-C0DF-457A-97BE-C3632CC4F9A2}|examenCortoCondiciones\\examenCortoCondiciones.vcxproj|solutionrelative:examenCortoCondiciones\\examenCortoCondiciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "examenCortoCondiciones.cpp",
+              "DocumentMoniker": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\examenCortoCondiciones\\examenCortoCondiciones\\examenCortoCondiciones.cpp",
+              "RelativeDocumentMoniker": "examenCortoCondiciones\\examenCortoCondiciones.cpp",
+              "ToolTip": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\examenCortoCondiciones\\examenCortoCondiciones\\examenCortoCondiciones.cpp*",
+              "RelativeToolTip": "examenCortoCondiciones\\examenCortoCondiciones.cpp*",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAF0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T15:10:03.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

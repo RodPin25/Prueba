@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\practica13Marzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0CE1C7-577E-4630-A007-30A49CC18F85}|practica13Marzo\\practica13Marzo.vcxproj|C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\practica13Marzo\\practica13Marzo\\practica13Marzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD0CE1C7-577E-4630-A007-30A49CC18F85}|practica13Marzo\\practica13Marzo.vcxproj|solutionrelative:practica13Marzo\\practica13Marzo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practica13Marzo.cpp",
+              "DocumentMoniker": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\practica13Marzo\\practica13Marzo\\practica13Marzo.cpp",
+              "RelativeDocumentMoniker": "practica13Marzo\\practica13Marzo.cpp",
+              "ToolTip": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\practica13Marzo\\practica13Marzo\\practica13Marzo.cpp",
+              "RelativeToolTip": "practica13Marzo\\practica13Marzo.cpp",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAAAC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T14:34:28.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

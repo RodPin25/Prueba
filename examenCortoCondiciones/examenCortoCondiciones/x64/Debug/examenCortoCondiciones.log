@@ -1,0 +1,3 @@
+﻿  examenCortoCondiciones.cpp
+C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\examenCortoCondiciones\examenCortoCondiciones\examenCortoCondiciones.cpp(96,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  examenCortoCondiciones.vcxproj -> C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\examenCortoCondiciones\x64\Debug\examenCortoCondiciones.exe

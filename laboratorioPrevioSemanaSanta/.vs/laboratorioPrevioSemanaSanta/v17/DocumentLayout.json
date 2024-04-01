@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\laboratorioPrevioSemanaSanta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777A0DC1-0A0B-40CE-80DB-D9E21622DA57}|laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.vcxproj|C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{777A0DC1-0A0B-40CE-80DB-D9E21622DA57}|laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.vcxproj|solutionrelative:laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratorioPrevioSemanaSanta.cpp",
+              "DocumentMoniker": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.cpp",
+              "RelativeDocumentMoniker": "laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.cpp",
+              "ToolTip": "C:\\Users\\rodpi\\OneDrive\\Documents\\Ejercicios de programacion\\C\u002B\u002B\\Ejercicios en clase\\laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.cpp",
+              "RelativeToolTip": "laboratorioPrevioSemanaSanta\\laboratorioPrevioSemanaSanta.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAHwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T15:16:43.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

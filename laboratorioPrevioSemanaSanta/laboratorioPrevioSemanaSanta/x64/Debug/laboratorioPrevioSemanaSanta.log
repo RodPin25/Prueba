@@ -1,0 +1,6 @@
+﻿  laboratorioPrevioSemanaSanta.cpp
+C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta.cpp(32,11): warning C4101: 'resul': unreferenced local variable
+C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta.cpp(101,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta.cpp(106,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta\laboratorioPrevioSemanaSanta.cpp(111,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  laboratorioPrevioSemanaSanta.vcxproj -> C:\Users\rodpi\OneDrive\Documents\Ejercicios de programacion\C++\Ejercicios en clase\laboratorioPrevioSemanaSanta\x64\Debug\laboratorioPrevioSemanaSanta.exe
